@@ -21,3 +21,6 @@ def ganó_el_jugador(jugador, oponente):
         return True
     else:
         return False
+
+
+print(jugar())
